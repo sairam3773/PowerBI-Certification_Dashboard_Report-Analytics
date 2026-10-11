@@ -146,19 +146,19 @@ Screenshots of the dashboard will be added here.
 
 ### Agile Certification Report
 
-![Agile Certification Report](Agile_Certification_Report.png)
+![Agile Certification Report](Screenshots/Agile_Certification_Report.png)
 
 ### Architecture Certification Report
 
-![Architecture Certification Report](Architect_Certification_Report.png)
+![Architecture Certification Report](Screenshots/Architect_Certification_Report.png)
 
 ### EM Certification Report
 
-![EM Certification Report](Enterprise_Management_Certification_Report.png)
+![EM Certification Report](Screenshots/Enterprise_Mngt_Certification_Report.png)
 
 ### Technology Certification Report
 
-![Technology Certification Report](Technology_Certification_Report.png)
+![Technology Certification Report](Screenshots/Technology_Certification_Report.png)
 
 ## 📂 Project Structure
 
